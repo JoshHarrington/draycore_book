@@ -1,8 +1,7 @@
 ---
 layout:     post
 title:      Section 0 - Begin
-date:       2016-01-01
-categories: jekyll pixyll
+date:       2016-01-01 12:00:00
 ---
 
 So I’m going to make a few guesses here, do tell me if I get something wrong.

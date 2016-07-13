@@ -1,5 +1,5 @@
 # Site settings
-title:       Draycore
+title:       The Draycore Incursion
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
@@ -89,7 +89,7 @@ text:
     email:    'Email Address'
     content:  'What would you like to say?'
     subject:  'New submission!'
-    submit:   'Say Hello'
+    submit:   'Get in touch'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
@@ -103,7 +103,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-paginate:     4
+paginate:     100
 sass:
   compressed: true
 gems:

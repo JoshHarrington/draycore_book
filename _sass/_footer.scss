@@ -27,3 +27,76 @@ footer {
   padding: $footer-padding;
   text-align: center;
 }
+
+
+.footer-post-list {
+  hr {
+    margin: 0;
+    border-bottom-color: #ebebeb;
+  }
+  >a {
+    color: inherit;
+    background-image: none;
+    text-shadow:none;
+    &:hover, &:focus, &:active {
+      border: 0;
+      color: inherit;
+      text-decoration: none;
+      background-image: none;
+      text-shadow:none;
+    }
+  }
+}
+
+.footer-post-list--title {
+  margin-bottom: 2em;
+  display: block;
+  .h3 {
+    margin: 0;
+  }
+}
+
+.footer-post-link {
+  display: none;
+  padding: 2em 1.5em;
+  
+  color: inherit;
+  background-image: none;
+  text-shadow:none;
+  + hr {
+    display: none;
+  }
+  
+  &.highlight {
+    background: white;
+    display: block;
+    & + hr {
+      display: block;
+    }
+    & ~ .footer-post-link {
+      display: block;
+      & + hr {
+        display: block;
+      }
+    }
+  }
+  &:hover, &:focus, &:active {
+    border: 0;
+    color: inherit;
+    text-decoration: none;
+    background-image: none;
+    text-shadow:none;
+  }
+  .post-summary {
+    font-size: 1.1em;
+    margin-bottom: 0;
+  }
+  .post-title {
+    margin-top: 0;
+  }
+}
+
+.footer-post-link--note {
+  margin-top: 1em;
+  display: inline-block;
+}

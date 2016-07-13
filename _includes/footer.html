@@ -1,43 +1,27 @@
-<footer class="center">
-  <div class="measure">
-    <small>
-      Theme crafted with &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>).<br>
-      &lt;/&gt; available on <a href="https://github.com/johnotander/pixyll">Github</a>.
-    </small>
-  </div>
-</footer>
-{% if site.enable_anchorjs %}<!-- AnchorJS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
-<script>
-    anchors.options.visible = 'always';
-    anchors.add('article h2, article h3, article h4, article h5, article h6');
-</script>{% endif %}
+<footer class="footer-post-list">
 
-
-
-
-<footer>
+  <a href="{{site.url}}#contents" class="footer-post-list--title"><h2 class="h4">Previous sections</h2></a>
  
- <small>
-   
-  
 {% for post in site.posts reversed %}
   
-  {% if post.index !== 0 %}
+  {% unless forloop.first %}
   <hr>
-  {% endif %}
-
-  <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
-  <p class="post-summary">
-    {% if post.summary %}
-      {{ post.summary }}
-    {% else %}
-      {{ post.excerpt }}
-    {% endif %}
-  </p>
-
+  {% endunless %}
+  
+  <a href="{{ post.url | prepend: site.baseurl }}" class="footer-post-link{% if post.url == page.url %} highlight{% endif%}">
+    <h3 class="h3 post-title">{{ post.title }}</h3>
+    <p class="post-summary">
+      {% if post.summary %}
+        {{ post.summary }}
+      {% else %}
+        {{ post.excerpt }}
+      {% endif %}
+    </p>
+    {% if post.url == page.url %}
+      <span class="footer-post-link--note">Current section</span>
+    {% endif%}
+  </a>
 
 {% endfor %}
- </small>
 
 </footer>

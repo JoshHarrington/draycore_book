@@ -1,19 +1,33 @@
 ---
-layout: default
+layout: home
 ---
 {% assign posts_count = (paginator.posts | size) %}
 
 <div class="home">
+  
+  {% if page.url == "/" %}
+
    
     <p>Welcome.</p>
     <p>This is a book, but not like you've seen before. </p>
     <p>It's a work in progress, there will be no 'big reveal' moment where it gets published and you get to read it, you get to read it right now... before it's finished.</p>
     <p>Yeah, that's the weird bit, if you like it then you won't just be able flip to the next page and find the next chapter. What's live on this site right now is the current total that I've written, I'm not holding back - waiting to get it right - before I put it up on here.</p>
-    <p>So let me know on <a href="#twitter">twitter</a> if you like it and please add suggestions / corrections to the <a href="https://github.com/JoshHarrington/draycore_site/issues">github issues page</a>.</p>
+    <p>So let me know on <a href="https://twitter.com/josh_harrington">twitter</a> if you like it and please add suggestions / corrections to the <a href="https://github.com/JoshHarrington/draycore_book/issues">github issues page</a>.</p>
+    
+    <h4>Sidenote:</h4>
+    <p>This is an adult book, it's going to have rude words and rude scenes in it - if those sorts of things offend you, this is probably not the book for you.</p>
+    
+    <h4>Last thing</h4>
+    <p>If you see that a section's title has an asterisk (*) next to it, that means it's still being worked on, it might end abruptly or have bits missing. I'm going to come back to that bit but it might be a bit annoying to read for the moment, apologies in advance!</p>
+      
+    <p>Thanks, enjoy!</p>
+      
+    <hr>
        
+  {% endif %}
       
   {% if posts_count > 0 %}
-    <div class="posts">
+    <div class="posts" id="contents">
       {% for post in paginator.posts reversed %}
       
         {% assign post_minutes = post | strip_html | number_of_words | divided_by: 180 %}
@@ -29,7 +43,7 @@ layout: default
             {% if post.summary %}
               {{ post.summary }}
             {% else %}
-              {{ post.excerpt }}
+              {{ post.excerpt | truncate: 100 }}
             {% endif %}
           </p>
           {% if post_minutes %}
@@ -41,7 +55,6 @@ layout: default
       {% endfor %}
     </div>
 
-    {% include pagination.html %}
   {% else %}
     <h1 class='center'>{{ site.text.index.coming_soon }}</h3>
   {% endif %}
