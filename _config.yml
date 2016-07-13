@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       Draycore
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://draycore.com"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -66,8 +66,8 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Previous'
+    older: 'Next'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
@@ -95,6 +95,7 @@ text:
       sent:     'Message sent!'
       error:    'Error!'
   thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  intro: '### Hello'
   og_locale: 'en_US'
 
 # Build settings

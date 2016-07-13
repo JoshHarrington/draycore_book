@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Pixyll
+title: About Draycore
 permalink: /about/
 tags: about
 ---
