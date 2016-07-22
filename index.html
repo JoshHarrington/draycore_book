@@ -46,7 +46,7 @@ layout: home
             {% if post.summary %}
               {{ post.summary }}
             {% else %}
-              {{ post.excerpt | truncate: 100 }}
+              {{ post.excerpt | truncate: 100 | remove: '<p>' | remove: '</p>' }}
             {% endif %}
           </p>
           {% if post_minutes %}
