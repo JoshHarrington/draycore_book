@@ -69,5 +69,5 @@ Tim leaned back in the chair. “Right. Let’s say it’s all true, that the Dr
 
 Tim let out a breath looking up at her. “Sorry Jane. I find myself always trying to see the agendas in people’s plans, even the council. I trust you too, I want you to know that. Gorlak believes in you, that’s a pretty strong recommendation in my book. Ok I’ll do what needs to be done.”
 
-Jane squeezed his hand then leaned back in her chair. With a soft smile she said. “Well alright then, let’s get you sorted.”
+Jane squeezed his hand then leaned back in her chair. With a soft smile she said, “Well alright then, let’s get you sorted.”
 
