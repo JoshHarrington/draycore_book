@@ -31,7 +31,7 @@ Pausing to gather herself, she attempted to explain his fuck-wittery. “The log
 
 “I’m done with this shit for tonight, you can finish this shift alone ...” Managing to keep her voice level low and the numerous names she wanted to call him to herself.
 
-John’s mind was still trying to catch up with the direction of the conversation, “Huh..” Was all he managed to blurt out as she strode past.
+John’s mind was still trying to catch up with the direction of the conversation, “Huh..” Was all he managed to blurt out as Sarah strode past.
 
 ***
 
