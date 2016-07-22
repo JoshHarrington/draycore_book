@@ -10,15 +10,13 @@
   
   <a href="{{ post.url | prepend: site.baseurl }}" class="footer-post-link{% if post.url == page.url %} highlight{% endif%}">
     <h3 class="h3 post-title">{{ post.title }}</h3>
-    <div class="post-summary-wrapper">
-      <p>
+      <p class="post-summary">
         {% if post.summary %}
           {{ post.summary }}
         {% else %}
           {{ post.excerpt | truncate: 100 | remove: '<p>' | remove: '</p>' }}
         {% endif %}
       </p>
-    </div>
   </a>
 
 {% endfor %}
