@@ -7,7 +7,7 @@ summary:    It was dark. Ok, it was always dark in that fortress, but that night
 
 It was dark. Ok, it was always dark in that fortress, but that night John was convinced that this was a new level of dark. He knew the noises he kept hearing were rats, and yet it still made him cringe every time he heard rustling. Thinking of unnatural creatures in the night lead his thoughts to something altogether darker.
 
-“We have to kill it. We’re not safe until we do.” John was of course speaking of the Draycore ‘person’ now bedding down not two hundred metres from where they sat. “We can’t trust it, we know how it’s people work, they slaughter their way through the galaxy taking out anything, even the faintest of threats.” He continued in a hushed grumble.
+“We have to kill it. We’re not safe until we do.” John was of course speaking of the Dray ‘person’ now bedding down not two hundred metres from where they sat. “We can’t trust it, we know how it’s people work, they slaughter their way through the galaxy taking out anything, even the faintest of threats.” He continued in a hushed grumble.
 
 “So, a lot like what you’re talking about, right now?” Sarah parried calmly from her crate, her voice quiet and somehow still managing to echo around the huge hall.
 
@@ -45,7 +45,7 @@ John’s mind was still trying to catch up with the direction of the conversatio
 
 “The ones guarding the main door in the hall. One was talking about not being safe until they get rid of me, and then the other one did a pretty decent job of shouting him down.” The alien paused, “You should get her a raise.” He mused.
 
-“A raise?!” Tim chuckled half-heartedly. “That’s above my head and you know it.” He paused. “But, I’ll find out who the other one is and - get rid of him tomorrow.” A dark twinge creeping into his voice.
+“A raise?!” Tim chuckled half-heartedly. “That’s above my head and you know it.” He paused. “But, I’ll find out who the other one is and - chat to him tomorrow.” A dark twinge creeping into his voice.
 
 “Hey,” Gorlak uttered, hearing his partner’s anger instantly. Raising his body slightly, speaking softly but surely he said, “We can’t just get rid of every single person who questions me being part of this movement. Otherwise you’d have to get rid of me too, I question it daily!”
 
@@ -59,7 +59,7 @@ Trying not to admit that his sleepy reverie was over, with eyes tight shut Tim m
 
 Giving in and sitting up, sliding into his partner’s goliathan arms. “I am. I believe in you. There’s not much else I believe in, but I know you’re gonna make this right.”
 
-Twisting to see his partner’s face and realising for maybe for fiftieth time how much he loved this human. “Well as long as you believe.” He whispered.
+Twisting to see his partner’s face and realising for maybe for five-hundredth time how much he loved this human. “Well as long as you believe.” He whispered.
 
 ***
 
@@ -67,29 +67,29 @@ Twisting to see his partner’s face and realising for maybe for fiftieth time h
 
 Many eyes fixed on him and much of the noise fell to nothing. He realised how few friends he had in that crowd and how ridiculously out of place he was here, just as he’d been with his own people.
 
-“I can see lots of new faces today.” He said, sure that his voice was scratchy and alien to their ears. “I just wanted to say that we’re really happy to welcome you to this movement. We know why you’re here - amazing food aside,” - his joke fell very flat, was that a tumbleweed he saw... - “we need every person who believes in peace to help us to fend off this enemy.”
+“I can see lots of new faces today.” He said, sure that his voice was scratchy and alien to their ears. “I just wanted to say that we’re really happy to welcome you to this movement. We know why you’re here - amazing food aside,” - his joke fell very flat - “we need every person who believes in peace and in protecting the Earth to help us to fend off this enemy.”
 
-“As you might have guessed, I’m Gorlak. The reason that I’m here is to help you fight back against an enemy who would enslave you and treat you as little more than cattle.”
+“For those of you who are new to the Ourea - you might have already guessed - I’m Gorlak. Put plainly, the reason that I’m here is to help you fight back against an enemy who would enslave you and treat you as little more than cattle.”
 
-“A lot of you would question my loyalty to this cause. Of course you should, how strange it must seem for a Draycore ‘alien’, to come down to Earth and start rallying people to fight a Draycore invasion. Seems weird right? Well, not that you asked, I’m an outcast.” Gorlak surveyed the crowd waiting for someone to shout some abuse in his direction. “I don’t particularly want to go into the details of why I was cast out from my race, all you need to know is that I’m committed to stopping them just as much as you are, more so if that’s possible.”
+“A lot of you would question my loyalty to this cause. Of course you should, how strange it must seem for a Dray ‘alien’, to come down to Earth and start rallying people to fight a Draycore invasion. Seems weird right? Well, not that you asked, I’m an outcast.” Gorlak surveyed the crowd waiting for someone to shout some abuse in his direction. “I don’t particularly want to go into the details of why I chose to get away from the Draycore, although I'm sure I'll have to at some point. All you need to know is that I’m committed to stopping them just as much as you are, more so, if that’s possible.”
 
 Across the hall - just as Gorlak had expected - someone stood up to say their piece. Was that the same idiot from the previous night?
 
 Gorlak didn’t let him speak just yet, he quickly asked, “Before you make your point, can I just ask, are you the same prick that was talking about killing me last night?”
 
-Many grinning faces swivelled to see the would-be assassin.
+Many faces began grinning, waiting for the drama, heads swivelled to see the would-be assassin.
 
-“Erm ... yes, I was.” He began, his voice aquiver and his face quickly coming to resemble a very ripe tomato. “My point, is that we don’t know you. Your race is known pretty much only for its genocide of massive populations of peaceful planets. Are you claiming that that’s not in you? Are you telling me that you don’t want to rip my head from my shoulders right now?”
+“Erm ... yes, I was.” John began, his voice aquiver and his face quickly coming to resemble a very ripe tomato. “My point, is that we don’t know you. Your race is known pretty much only for its genocide of massive populations of peaceful planets. Are you claiming that that’s not in you? Are you telling me that you don’t want to rip my head from my shoulders right now?”
 
-Gorlak paused to let the question sink in and to allow the faces to swivel to catch the retort. “If I wanted you dead you would be. It’s on my orders you’re still around to be shouting abuse at me.” He searched the crowd with what he hoped could be mistaken for a piercing glare, “As I said, we need everyone who believes in peace to stand together to weather what’s coming. I’m all for debates and you can question me as much as you like, as long as you’re happy to fight alongside me under the same banner. I don’t need to repeat it but I will, the core of our movement is defiance in the face of ridiculous odds - we stand united against a force that would level this planet because they are threatened by the size of your brains.”
+Gorlak paused to let the question sink in and to allow the faces to swivel to catch the retort. “If I wanted you dead you would be. It’s because I believe in better methods of resolving issues than murder that I'm here instead of still aboard the ship currently racing across the Galaxy towards us.” John had already sat down by this point, hoping to be able fade into the crowd and his outburst forgot quickly. Gorlak stood a little taller and surveryed the crowd with what he hoped could be mistaken for a defiant glare, “As I said, we need everyone who believes in peace to stand together to weather what’s coming. I’m all for debates and you can question me as much as you like, as long as you’re happy to fight alongside for the same cause. I know I don’t need to repeat it, but I will, the core of our movement is defiance in the face of ridiculous odds - we stand united against a force that would level this planet because they are threatened by the size of your brains.”
 
-He waited a few seconds before sitting down. The awkward silence carried on until Tim, who had been sitting someway off, stood to break the tension. “Alright then, enough morale boosting, get your breakfasts down you and get on with the preparations.” 
+He waited a few seconds before sitting down. The awkward silence carried on until Tim, who had been sitting someway off, stood to break the tension. “Alright then, enough morale boosting, get your breakfasts down you and get on with your days duties.”
 
 The rabble’s noise quickly rose to similar levels as before the alien’s little interlude.
 
-Jane, a fellow co-founder and one of his closest confidants nudged him and murmured a quick encouragement before rising to collect her troupe and begin the day.
+Jane, his friend, confidant and leader of the Ourea, nudged him and murmured a quick encouragement before rising to collect her troupe and begin the day.
 
-“Could have gone worse.” He concluded.
+“Could have gone worse.” He concluded to no one in particular.
 
 ***
 
