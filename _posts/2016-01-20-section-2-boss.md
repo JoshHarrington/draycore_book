@@ -7,7 +7,7 @@ summary:    Jane knew that there was still an expectation for men to be leaders 
 
 Jane was the boss. Leader of the Ourea.
 
-It had taken her years to get to a point where she was finally comfortable with that statement.
+It had taken her years to get to a point where she was finally comfortable with those statements.
 
 Sure, she knew that there were those in the Ourea and in the outside world who expected men to be leaders by default and that women would naturally be less visible, valued and vocal. She’d known this from her days in the military and from the early days in the camp. Knowing something existed didn’t make it any less annoying. In the first year that she’d take charge of the Ourea, she’d been constantly aware of herself, ensuring that everyone was aware who was in charge whilst forcing herself not to look like she was trying too hard to be noticed and respected.
 
