@@ -68,10 +68,17 @@ footer {
   }
   
   &.highlight {
-    background: white;
-    display: block;
+//    background: white;
+//    display: block;
     & + hr {
       display: block;
+      & + .footer-post-link {
+        &:before {
+          content: "Next section";
+          margin-bottom: 1em;
+          display: block;
+        }
+      }
     }
     & ~ .footer-post-link {
       display: block;

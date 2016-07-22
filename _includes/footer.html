@@ -1,6 +1,6 @@
 <footer class="footer-post-list">
 
-  <a href="{{site.url}}#contents" class="footer-post-list--title"><h2 class="h4">Previous sections</h2></a>
+  <a href="{{site.url}}#contents" class="footer-post-list--title"><h2 class="h4">Section List</h2></a>
  
 {% for post in site.posts reversed %}
   
@@ -17,9 +17,6 @@
         {{ post.excerpt }}
       {% endif %}
     </p>
-    {% if post.url == page.url %}
-      <span class="footer-post-link--note">Current section</span>
-    {% endif%}
   </a>
 
 {% endfor %}
