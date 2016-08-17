@@ -22,6 +22,6 @@ Even though Suzy has significant intelligence compared with other mammals she st
 
 So when a race this intelligent happens to find itself with a rebel group that are set on the notion that only Dray should exist in this Galaxy and anything else with even the vaguest suggestions of intelligence are a threat to be wipe from their respective planet or moon - yeah, that’s a problem.
 
-They call themselves the Draycore. They are Dray, they hold the pseudo-traditional values of the Dray of self-presevation and defence core to their psychology.
+They call themselves the Draycore. They are Dray, they hold the pseudo-traditional values of the Dray of self-preservation and defence core to their psychology.
 
 They are our worst nightmare.
