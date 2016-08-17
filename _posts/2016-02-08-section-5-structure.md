@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Section 4 - Structure *
-date:       2016-02-05 11:21:29
+title:      Section 5 - Structure *
+date:       2016-02-08 11:21:29
 ---
 
 Gorlak was different now. This was his new reality. He no longer had a self-defence system keeping his body at optimum status, controlling his emotional state, translating his words for him.
