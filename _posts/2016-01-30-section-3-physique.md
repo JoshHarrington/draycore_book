@@ -38,7 +38,7 @@ Jane slowed to a jog as she approached the mob. She couldn't tell what they were
 
 There was an alien lying at their gates.
 
-He looked awful. Black ooze dripping from wounds in his side. His exoskeleton fractured in multiple places.
+He looked awful. Black ooze dripping from wounds in his side and head. His exoskeleton fractured in multiple places.
 
 No one was helping him. They were just standing around like fools, laughing about the absurdity of the situation. Jane paused and had to take a breath. 
 
@@ -50,7 +50,9 @@ After a minute of inspecting his body and trying to guess whether it would actua
 
 The stretcher arrived. She pulled two more people out of the slowly dissipating crowd to help her roll him onto the stretcher whilst trying to protect his fragile looking flesh. Less gently that she would have liked they got him onto the stretcher. It took four of them to lift him, with the stretch bowing unnervingly under his weight. Slowly they made their way across the camp to the medical centre.
 
-The doctor was quite clearly freaking out when they arrived and it was only Jane who could stop him from shouting about procedure and to open the cleansing chamber leading to the sterile room. The air was stale in the room, it had remained dormant for the last two years with people saying it was a complete waste of resources to have been built in the first place. They got their patient onto the bed. Only now did the double layered lid of his  left eye begin to spread - the right looked crusted closed from some dried material that had leaked from his skull. What had, up to that moment been a limp limb, now sprang up to grab the closest stretcher bearer by the throat.
+The camp doctor was quite clearly freaking out when they arrived and it was only Jane who could stop him from shouting about procedure and to open one of the patient rooms so they could get the alien onto a bed. The air in the room tasted stale. The doctor couldn’t deal with the reality of the situation and promptly left before they even got the stretcher fully into the room. He could be heard muttering about what he’d signed up for as he stumbled away.
+
+They got their patient onto the bed. Only now did the double layered lid of his  left eye begin to spread - the right looked crusted closed from some dried material that had leaked from his skull. What had, up to that moment been a limp limb, now sprang up to grab the closest stretcher bearer by the throat.
 
 Jane had managed to keep her cool through the entire episode, but she'd admit to herself later this was the closest she got to her breaking point. She could see the power in the arm of the creature, despite looking half-dead he looked strong enough to kill or at least maim everyone in that room, before succumbing to his injuries.
 
