@@ -1,8 +1,8 @@
 # Site settings
 title:       The Draycore Incursion
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+email:       josh@joshharrington.co.uk
+author:      Josh Harrington
+description: "A weird little book on being a misfit alien on a misfit planet, waiting for the sky to start burning."
 baseurl:     ""
 url:         "http://draycore.com"
 date_format: "%b %-d, %Y"
