@@ -133,13 +133,13 @@ She’d remember the weird stories she’d been told when they’d been living i
 
 Whereas ’Davids’ had been created with the specific aim of silencing your conscience - it seemed like they’d lead to the best wake up and reaction against violence in generations. The factories producing them had mostly been destroyed but you could still get hold of the drugs if you knew who to ask.
 
-The generally accepted wisdom was that you don't let anyone know that you have them and definitely don't let people see you under their effects. This thinking was twofold: you don't want your stash going missing; and you don't want higher ups from looking too closely at you.
+The generally accepted wisdom was that you don't let anyone know that you have them and definitely don't let people see you under their effects. This thinking was twofold: you don't want your stash going missing; and you don't want higher-ups looking too closely at you.
 
 Sarah saw a foot go out with the intention of providing a bit of evening banter with the felling of an idiot. She slid from her perch and moved quickly to grab John’s shoulders and turned him round. The twat with the foot received a derisive glance for her efforts and a coy smile was returned. Sarah sighed, John mumbled, they stalked to the exit without pausing to draw anymore attention.
 
 When she got him back to his room she saw the mess he’d made of the poster given to them all on joining the movement. It wasn’t exactly sacrilegious to damage it, but it wasn’t far off.
 
-She dumped him on his bed - in a less than sisterly fashion - he was asleep mattress had stopped bouncing.
+She dumped him on his bed - in a less than sisterly fashion - he was asleep before the mattress had stopped bouncing.
 
 Sarah turned round to survey the rat’s nest that was her sibling’s room.
 

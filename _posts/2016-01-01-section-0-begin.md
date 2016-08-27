@@ -20,7 +20,7 @@ The average Dray is more intelligent than the average human. The best way that I
 
 Even though Suzy has significant intelligence compared with other mammals she struggles to grasp some of the things that would be relatively simple to understand for humans. It’s not as big a step up from Humans to Dray as Chimp to Human, but it’s a useful notion to keep in your head. They are things that will seem relatively simple to the average Dray that are completely out the grasp of your average human.
 
-So when a race this intelligent happens to find itself with a rebel group that are set on the notion that only Dray should exist in this Galaxy and anything else with even the vaguest suggestions of intelligence are a threat to be wipe from their respective planet or moon - yeah, that’s a problem.
+So when a race this intelligent happens to find itself with a rebel group that are set on the notion that only Dray should exist in this Galaxy and anything else with even the vaguest suggestions of intelligence are a threat to be wiped from their respective planet or moon - yeah, that’s a problem.
 
 They call themselves the Draycore. They are Dray, they hold the pseudo-traditional values of the Dray of self-preservation and defence core to their psychology.
 
